@@ -1,5 +1,4 @@
-# rxfm-net
-Rigid Transformation Network (MICCAI 2021)
+#Joint Motion Tracking Neural Network (MIDL 2024)
 
 Requirements
 ----
