@@ -1,0 +1,24 @@
+study:
+        name: 'prototype'
+
+data:
+    predict: '3D'
+
+
+model:
+    network_type: 'CNN'
+    deformable: False
+    optimizer: 'Adam'
+    scheduler: 'CosAn'
+    loss: 'L2'    ##'L2' or 'L1'
+    augmentation: False
+    deformable: True
+    
+
+solver:
+    lr: 0.001
+    epochs: 50
+    batch_size: 1
+    weight_decay: 0.0001
+    def_weight: 0.3
+
