@@ -1,4 +1,3 @@
-#Joint Motion Tracking Neural Network (MIDL 2024)
 
 ```markdown
 # Joint Motion Estimation with Geometric Deformation Correction for Fetal Echo Planar Images Via Deep Learning
