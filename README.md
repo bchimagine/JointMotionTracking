@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Sure, here is the updated markdown with the specified libraries:
-=======
 #Joint Motion Tracking Neural Network (MIDL 2024)
 >>>>>>> 726a6e33894b09dd695301d4be07e5d46e00d64c
 
